@@ -27,3 +27,15 @@
 table {
     border: 5px solid black;
 } 
+
+.voldoende {
+    background-color: green;
+}
+
+.onvoldoende {
+    background-color: tomato;
+}
+
+.onbehaald {
+    background-color: dodgerblue;
+}
